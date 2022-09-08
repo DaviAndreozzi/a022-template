@@ -1,0 +1,18 @@
+button:hover{
+  background-color: purple;
+  color: aqua;
+}
+
+button{
+  background-color: pink;
+  color: aquamarine;
+}
+
+button:active{
+  background-color: blue;
+  color: yellow;
+}
+
+body{
+  text-align: center;
+}

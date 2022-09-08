@@ -1,0 +1,20 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+/* reset do css */
+header, footer{
+  width: 100vw;
+  height: 15vh;
+  background-color: dimgray;
+}
+
+header{
+  position: fixed;
+}
+
+main{
+  width: 100vw;
+  height: 7000px;
+  background-color: aqua;
+}
